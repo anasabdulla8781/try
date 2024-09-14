@@ -1,1 +1,3 @@
 this is file3 in 2nd branch
+
+modifying file3 only for branch1 and then master ( not for other branches )
